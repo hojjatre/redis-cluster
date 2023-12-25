@@ -1,0 +1,58 @@
+Leaderboard Log - 1703528143122
+user1: 10
+user2: 20
+hojjat2: 120
+user3: 300
+hojjat1: 12
+
+Leaderboard Log - 1703528153098
+user1: 10
+user2: 20
+hojjat2: 120
+user3: 300
+hojjat1: 12
+
+Leaderboard Log - 1703528163094
+user1: 10
+hojjat3: 1200
+user2: 20
+hojjat2: 120
+user3: 300
+hojjat1: 12
+
+Leaderboard Log - 1703528173095
+user1: 10
+hojjat3: 1200
+user2: 20
+hojjat2: 120
+hojjat4: 1
+user3: 300
+hojjat1: 12
+
+Leaderboard Log - 1703528422178
+user1: 10
+hojjat3: 1200
+user2: 20
+hojjat2: 120
+hojjat4: 1
+user3: 300
+hojjat1: 12
+
+Leaderboard Log - 1703528432167
+user1: 10
+hojjat3: 1200
+user2: 20
+hojjat2: 120
+hojjat4: 1
+user3: 300
+hojjat1: 12
+
+Leaderboard Log - 1703528442163
+user1: 10
+hojjat3: 1200
+user2: 20
+hojjat2: 120
+hojjat4: 1
+user3: 300
+hojjat1: 12
+
